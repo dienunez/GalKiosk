@@ -1,0 +1,45 @@
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe.config
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).pdb
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csprojResolveAssemblyReference.cache
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Properties.Resources.resources
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csproj.GenerateResource.Cache
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).exe
+c:\users\l0653853\documents\visual studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).pdb
+C:\Users\L0653853\Documents\Visual Studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_GalKiosk.resources
+C:\Users\L0653853\Documents\Visual Studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Reiniciar.resources
+C:\Users\L0653853\Documents\Visual Studio 2015\Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Apagar.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe.config
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).pdb
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Apagar.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_GalKiosk.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Reiniciar.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Properties.Resources.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csproj.GenerateResource.Cache
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).pdb
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe.config
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).exe
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).pdb
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).pdb
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csprojResolveAssemblyReference.cache
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Apagar.resources
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_GalKiosk.resources
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Reiniciar.resources
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Properties.Resources.resources
+C:\Users\diego\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csproj.GenerateResource.Cache
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csprojResolveAssemblyReference.cache
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk)\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_CerrarSesion.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe.config
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).pdb
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\bin\Debug\WindowsFormsApplication (GalKiosk).pdb
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Apagar.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_CerrarSesion.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_GalKiosk.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Form_Reiniciar.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication__GalKiosk_.Properties.Resources.resources
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\WindowsFormsApplication (GalKiosk) - copia\WindowsFormsApplication (GalKiosk)\obj\Debug\WindowsFormsApplication (GalKiosk).csproj.GenerateResource.Cache
